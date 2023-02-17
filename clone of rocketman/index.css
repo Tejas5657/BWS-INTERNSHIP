@@ -1,0 +1,274 @@
+body
+{
+    margin: 0%;
+}
+
+.c1
+{
+    
+    padding: 40px 0px;
+
+
+}
+#c11
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#logo
+{
+    margin-right: 300px;
+}
+
+.menu1
+{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: grey;
+    letter-spacing: 2px;
+    word-spacing: 0%;
+    padding: 10px 15px;
+    
+}
+
+#menu ,.menu1
+{
+    display: inline;
+
+}
+#heading1
+{
+    margin-left: 50px;
+    font-size: 60px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    line-height: 33.3px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+
+}
+#heading3
+{
+    width: 100%;
+    padding: 50px 10px;
+    font-size: 30px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    line-height: 33.3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#content ,#c7b 
+{
+    margin-left: 50px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    color: rgb(34, 32, 32);
+    background-color: aliceblue;
+    letter-spacing: 2px;
+    word-spacing: 0%;
+}
+
+#heading2 
+{
+  padding-left: 50px ;
+ 
+    font-size: 30px;
+    font-weight: 300;
+    position: relative;
+    width: 300px;
+    letter-spacing: 1px;
+    line-height: 33.3px;
+    width: 700px;
+    
+
+}
+
+
+.c2
+{
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+    background: linear-gradient(180.43deg, rgba(0,0,0,0.60) 0%, rgba(0,0,0,0.80) 100%), url(./gas_guzzlers.jpg);"
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    color:white;
+    
+  
+
+}
+.c3
+{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+   
+   
+
+}
+
+.c31
+{
+    width: 500px;
+    padding:0px 1px;
+    border: 1px solid rgb(198, 189, 189);
+   
+
+}
+#c31p
+{
+    font-size: 25px;
+    padding: 20px;
+
+}
+#c31btn
+{
+    padding: 10px 30px;
+    color: rgb(172, 15, 172);
+   background-color: white;
+   border:0px;
+    font-size:18px ;
+}
+
+.c4{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.c41
+{
+    margin-left: 20px;
+}
+.c42
+{
+    position: relative;
+  color: aliceblue;
+  font-weight: 300;
+  background-color: black;
+  width: 40%;
+  padding:  40px 40px;
+  top:-250px;
+  left: 300px;
+}
+
+.c52
+{
+    position: relative;
+    color: aliceblue;
+    font-weight: 300;
+    background-color: black;
+    width: 40%;
+    padding:  40px 40px;
+    top:-200px;
+    left: 50px;
+   
+
+}
+
+
+ #c41btn
+ {
+    padding: 13px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border:0px;
+     font-size:20px ;
+     
+ }
+ 
+ #c5h
+ {
+ 
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 33.3px;
+
+ }
+
+ #c5b
+ {
+    padding: 15px 40px;
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+ }
+.c6{
+    margin-bottom: 100px;
+}
+ 
+
+ .c61
+ {
+    
+    width: 600px;
+    text-align: center;
+    margin: 50px;
+ }
+
+ .c7
+ {
+    background-color: blueviolet;
+    padding: 50px 50px;
+ }
+.c71
+{
+    font-size: 35px;
+    font-weight: 900;
+    width: 600px;
+    color: white;
+   
+}
+ .c72
+ {
+    font-size: 20px;
+    font-weight: 600;
+    width: 600px;
+    color: white;
+   
+   
+ }
+
+ #c7b
+ {
+    position: relative;
+      left: 800px;
+      top: -90px;
+ }
+
+ .c8
+ {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+ 
+ 
+
+
+ .c811
+ {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    
+ }
