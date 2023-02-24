@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        *
+        {
+            margin: 0%;
+            padding: 0%;
+            box-sizing: border-box;
+        }
+
+        .con{
+            display: flex;
+            flex-wrap: wrap;
+
+        }
+        
+        .navigation
+        {
+            width: 100%;
+            height: 20px;
+            padding: 20px;
+            border: 2px solid red;
+        }
+        .Slidebar
+        {
+            width: 20%;
+            height:100px;
+            padding-left: 20px;
+            border: 2px solid red;
+        }
+        .contant
+        {
+            width:80% ;
+            height:100px ;
+            border: 2px solid red;
+        }
+
+        @media (max-width:650px) {
+            .Slidebar{
+                display: none;
+            }
+            .contant{
+                width: 100%;
+            }
+            
+        }
+
+    </style>
+</head>
+<body>
+    
+
+    <div class="con">
+        <div class="navigation">
+            navigation 
+    
+        </div>
+        <div class="Slidebar">
+            slidebar
+    
+        </div>
+        <div class="contant">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error atque, voluptas temporibus dicta voluptatem quasi deleniti adipisci, illo corporis est dolor, eveniet similique omnis illum et aliquam necessitatibus beatae animi.
+    
+        </div>
+    </div>
+</body>
+</html>
